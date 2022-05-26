@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "ContagemRegressivaJs"
+		},
+		{
+			"path": "NomeCompletoJs"
+		},
+		{
+			"path": "DivisaoJs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NomeCompletoJs"
+	}
+}
